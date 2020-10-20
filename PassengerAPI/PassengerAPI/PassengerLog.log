@@ -1,0 +1,37 @@
+INFO  10:51:52 Application started. Press Ctrl+C to shut down.
+INFO  10:51:52 Application started. Press Ctrl+C to shut down.
+INFO  10:51:52 Hosting environment: Development
+INFO  10:51:52 Hosting environment: Development
+INFO  10:51:52 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  10:51:52 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  10:52:08 PassengerController - GetTicketType
+INFO  10:52:33 PassengerController - GetBookingDetail
+INFO  11:00:27 PassengerController - GetTicketType
+INFO  11:00:46 PassengerController - GetBookingDetail
+INFO  11:01:00 PassengerController - GetBookingDetail
+INFO  11:01:32 Application started. Press Ctrl+C to shut down.
+INFO  11:01:32 Application started. Press Ctrl+C to shut down.
+INFO  11:01:32 Hosting environment: Development
+INFO  11:01:32 Hosting environment: Development
+INFO  11:01:32 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  11:01:32 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  11:01:55 PassengerController - GetTicketType
+INFO  11:02:19 PassengerController - GetBookingDetail
+INFO  11:08:38 PassengerController - GetTicketType
+INFO  12:17:47 Application started. Press Ctrl+C to shut down.
+INFO  12:17:48 Application started. Press Ctrl+C to shut down.
+INFO  12:17:48 Hosting environment: Development
+INFO  12:17:48 Hosting environment: Development
+INFO  12:17:48 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  12:17:48 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  12:18:02 PassengerController - GetTicketType
+INFO  04:45:10 Application started. Press Ctrl+C to shut down.
+INFO  04:45:10 Application started. Press Ctrl+C to shut down.
+INFO  04:45:10 Hosting environment: Development
+INFO  04:45:10 Hosting environment: Development
+INFO  04:45:10 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  04:45:10 Content root path: C:\Users\Shailesh\source\repos\PassengerAPI\PassengerAPI
+INFO  04:45:43 PassengerController - GetTicketType
+INFO  04:50:35 PassengerController - GetTicketType
+INFO  04:51:08 PassengerController - GetTicketType
+INFO  04:51:28 PassengerController - GetBookingDetail

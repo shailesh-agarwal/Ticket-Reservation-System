@@ -1,0 +1,11 @@
+INFO  04:49:54 Application started. Press Ctrl+C to shut down.
+INFO  04:49:54 Application started. Press Ctrl+C to shut down.
+INFO  04:49:54 Hosting environment: Development
+INFO  04:49:54 Hosting environment: Development
+INFO  04:49:54 Content root path: C:\Users\Shailesh\source\repos\MVCClient\MVCClient
+INFO  04:49:54 Content root path: C:\Users\Shailesh\source\repos\MVCClient\MVCClient
+INFO  04:50:34 MVCPassengerController - TicketType
+INFO  04:51:08 MVCAuthenticationController - Login
+INFO  04:51:08 MVCPassengerController - TicketType
+INFO  04:51:28 MVCPassengerController - BookingDetail
+INFO  04:51:48 MVCAdminController - AllBooking

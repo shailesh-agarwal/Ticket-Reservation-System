@@ -1,0 +1,60 @@
+INFO  12:14:21 Application started. Press Ctrl+C to shut down.
+INFO  12:14:21 Application started. Press Ctrl+C to shut down.
+INFO  12:14:21 Hosting environment: Development
+INFO  12:14:21 Hosting environment: Development
+INFO  12:14:21 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  12:14:21 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  12:15:11 AuthenticationController - Login
+INFO  06:11:17 Application started. Press Ctrl+C to shut down.
+INFO  06:11:17 Application started. Press Ctrl+C to shut down.
+INFO  06:11:17 Hosting environment: Development
+INFO  06:11:17 Hosting environment: Development
+INFO  06:11:17 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  06:11:17 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  06:11:54 AuthenticationController - Login
+INFO  06:55:36 Application started. Press Ctrl+C to shut down.
+INFO  06:55:36 Application started. Press Ctrl+C to shut down.
+INFO  06:55:36 Hosting environment: Development
+INFO  06:55:36 Hosting environment: Development
+INFO  06:55:37 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  06:55:37 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  06:56:17 AuthenticationController - Login
+INFO  06:57:36 AuthenticationController - Login
+INFO  07:01:04 AuthenticationController - Login
+INFO  07:02:47 AuthenticationController - Login
+INFO  11:05:08 Application started. Press Ctrl+C to shut down.
+INFO  11:05:08 Application started. Press Ctrl+C to shut down.
+INFO  11:05:08 Hosting environment: Development
+INFO  11:05:08 Hosting environment: Development
+INFO  11:05:08 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  11:05:08 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  11:05:59 AuthenticationController - Login
+INFO  11:06:35 AuthenticationController - Login
+INFO  11:06:40 AuthenticationController - Login
+INFO  11:08:26 AuthenticationController - Login
+INFO  11:08:30 AuthenticationController - Login
+INFO  11:08:37 AuthenticationController - Login
+INFO  12:12:01 Application started. Press Ctrl+C to shut down.
+INFO  12:12:01 Application started. Press Ctrl+C to shut down.
+INFO  12:12:01 Hosting environment: Development
+INFO  12:12:01 Hosting environment: Development
+INFO  12:12:01 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  12:12:01 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  01:03:56 Application started. Press Ctrl+C to shut down.
+INFO  01:03:56 Application started. Press Ctrl+C to shut down.
+INFO  01:03:56 Hosting environment: Development
+INFO  01:03:56 Hosting environment: Development
+INFO  01:03:56 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  01:03:56 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  01:05:11 TokenValidateController - Login
+INFO  01:05:13 TokenValidateController - GenerateToken
+INFO  04:46:56 Application started. Press Ctrl+C to shut down.
+INFO  04:46:56 Application started. Press Ctrl+C to shut down.
+INFO  04:46:56 Hosting environment: Development
+INFO  04:46:56 Hosting environment: Development
+INFO  04:46:56 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  04:46:56 Content root path: C:\Users\Shailesh\source\repos\AuthenticationAPI\AuthenticationAPI
+INFO  04:48:00 TokenValidateController - Login
+INFO  04:48:03 TokenValidateController - GenerateToken
+INFO  04:51:08 TokenValidateController - Login
+INFO  04:51:08 TokenValidateController - GenerateToken
